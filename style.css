@@ -45,7 +45,29 @@ h4 {
 }
 .MJ {
   color: darkred;
-  width: 30vw;
+  width: 25vw;
   font-size: 25px;
   margin-left: 37%;
+}
+.ocean{
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 40px;
+  color:black
+}
+.frank{
+  color: darkred;
+  width: 25vw;
+  font-size: 25px;
+  margin-left: 37%;
+  
+}
+.frankimg{
+  width: 25vw;
+  margin-left: 37%;
+}
+h5{
+  font-size: 40px;
+  color: darkred;
+  text-align: center;
 }
